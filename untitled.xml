@@ -1,0 +1,3 @@
+I tried using the Experian’s test env endpoint: https://creditservices-demo.experian.com.au/nextgen-aus-pds/cxf/reporting-WS?wsdl in the SoapUI to create a new SOAP project but it seems that I am getting an exception.
+I also tried accessing the endpoint using browser but I am getting “<faultstring>Internal Error (from client)</faultstring>”
+I might need some help on how I will be testing a sample request
